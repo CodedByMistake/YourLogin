@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>0.0.1.1-test</version>
-    <url>https://github.com/CodedByMistake/YourLogin/releases/latest/download/update.xml</url>
-    <changelog>https://github.com/CodedByMistake/YourLogin/releases/latest/download/Setup-YourLogin.exe</changelog>
+    <url>https://github.com/CodedByMistake/YourLogin/releases/latest/download/Setup-YourLogin.exe</url>
     <mandatory>true</mandatory>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART</args>
 </item>
